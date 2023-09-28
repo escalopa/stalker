@@ -1,5 +1,5 @@
 # stalker 🕵🏽‍♂️
-Geo tracker distributed chat application 
+Geo tracker distributed chat application
 
 ## Tech Stack 🚀
 
@@ -62,6 +62,7 @@ Geo tracker distributed chat application
 ### File Storage 🗃
 
 - Ceph
+- Hadoop
 
 ### CI/CD  🛠
 
@@ -69,3 +70,7 @@ Geo tracker distributed chat application
 - Test
 
 ## Architecture  🏗
+
+---
+
+##
