@@ -1,76 +1,22 @@
 # stalker 🕵🏽‍♂️
-Geo tracker distributed chat application
+A highly available distributed chat application
 
 ## Tech Stack 🚀
 
-### Languages 🌐
+**Languages 🌐:** Golang
 
-- Golang
-- HTML (templating), CSS, JS
+**Data Transformation Protocols ✉️:** gRPC, WS, REST
 
-### Data Transformation Protocols ✉️
+**Broker 📑:** Kafka
 
-- gRPC
-- Web Sockets
-- REST API
+**Containerization 📦:** K8s, Docker, Docker compose
 
-### Authentication 🔑
+**Secrets 🧰:** Vault, JWT
 
-- LDAP
-- AD
-- OIDC
-- KeyClock
-- Ory
-- OAuth
+**Database/Cache 📚:** Mongo, Memcache
 
-### Monitoring 🔍
-
-- Metrics
-    - Grafana
-    - Prometheus
-- Tracing
-    - Open Telemetry
-    - Jaeger
-- Logging
-    - Graylog
-
-### Broker 📑
-
-- Kafka
-- Red Panda
-
-### Containerization 📦
-
-- K8s
-- Docker
-- Docker compose
-
-### Load Balancing ⚖
-
-- Nginx
-
-### Secrets 🧰
-
-- Vault
-
-### Database/Cache 📚
-
-- Postgres
-- Redis
-- Memcache
-
-### File Storage 🗃
-
-- Ceph
-- Hadoop
-
-### CI/CD  🛠
-
-- Build
-- Test
+**CI/CD  🛠:** Build, Test
 
 ## Architecture  🏗
 
----
-
-##
+![](./stalker.svg)⠀
